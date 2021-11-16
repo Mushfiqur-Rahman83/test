@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CPMentor</string>
+    <string name="find_soln">Find solutions and help each other</string>
+    <string name="cp_mentor">CP mentor</string>
+    <string name="wels">Welcome!</string>
+
+    <string name="cp_Mentor">CP Mentor</string>
+    <string name="hello">Hello Again! Welcome Back</string>
+    <string name="singUp_continue">Sign up to</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915345350748",
+    "project_id": "cpyipee",
+    "storage_bucket": "cpyipee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915345350748:android:a2ff84aab1a0bb12574699",
+        "android_client_info": {
+          "package_name": "com.example.cpyipee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915345350748-fr3i3tush66e59kosm54dplmjq7vqlhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg2wJ-h08TBfijegp-8DzKWyuFAVKjnow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915345350748-fr3i3tush66e59kosm54dplmjq7vqlhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
